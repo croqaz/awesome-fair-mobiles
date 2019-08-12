@@ -3,6 +3,7 @@
 ## Phones
 
 * [FairPhone](https://fairphone.com/) - Ethical, modular smartphone
+* [ShiftPhones](https://shiftphones.com/en/) - Sustenable, modular smartphones
 * [Librem 5](https://puri.sm/products/librem-5/) - Phone built on PureOS, a free, ethical and open-source operating system
 * [Motorola Droid Bionic 2011](https://gsmarena.com/motorola_droid_bionic_xt875-3710.php) - Rated 9 on [ifixit.com](https://ifixit.com/smartphone-repairability?sort=score)
 * [Motorola ATRIX 4G 2011](https://gsmarena.com/motorola_atrix_4g-3708.php) - Rated 9 on [ifixit.com](https://ifixit.com/smartphone-repairability?sort=score)
@@ -15,6 +16,7 @@
 * [EOMA68 Computing Devices](https://crowdsupply.com/eoma68/micro-desktop) - An Earth-friendly way to easily upgrade and fix your own computer. Modular 15.6” Laptop Housing, Allwinner A20 Dual-core ARM Cortex A7 architecture.
 * [Librem 13](https://puri.sm/products/librem-13/) - Ultra-portable laptop designed to respect your rights to privacy, security, and freedom. Intel 3.5GHz i7-7500U, 8GB, up to 32GB, DDR4. 2 hardware kill switches, microphone/camera and wireless/bluetooth.
 * [Librem 15](https://puri.sm/products/librem-15/) - The same specs as Librem 13, but 15”.
+* [SHIFTmu](https://www.shiftphones.com/en/shiftmu/) - Powerful and modular. Universal all-in-one device.
 
 
 ## Useful links
