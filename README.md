@@ -17,6 +17,7 @@
 * [Librem 13](https://puri.sm/products/librem-13/) - Ultra-portable laptop designed to respect your rights to privacy, security, and freedom. Intel 3.5GHz i7-7500U, 8GB, up to 32GB, DDR4. 2 hardware kill switches, microphone/camera and wireless/bluetooth.
 * [Librem 15](https://puri.sm/products/librem-15/) - The same specs as Librem 13, but 15”.
 * [SHIFTmu](https://www.shiftphones.com/en/shiftmu/) - Powerful and modular. Universal all-in-one device.
+* [Pinebook Pro](https://www.pine64.org/pinebook-pro/) - Powerful, Metal and Open Source ARM 64-Bit Laptop for Work, School or Fun.
 
 
 ## Useful links
