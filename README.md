@@ -34,3 +34,4 @@
 ## License
 
 Unlicensed aka Public Domain. See [UNLICENSE](/LICENSE) for details.
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
